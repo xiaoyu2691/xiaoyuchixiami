@@ -7,10 +7,10 @@ Go to this page and click [here to download the Titan Browser Extension](https:/
 ![Titan Browser Extension](https://github.com/user-attachments/assets/adc0a7a8-8e46-40b9-80e2-f243e6222359)
 
 ## 注册登录 / Register and Login
-也可以点击[这里进行注册登录](https://edge.titannet.info/signup?inviteCode=NP2QK3EA)  
-You can also click [here to register and log in](https://edge.titannet.info/signup?inviteCode=KXG7DA49)
+也可以点击[这里进行注册登录](https://edge.titannet.info/signup?inviteCode=NP2QK3EA)
+You can also click [here to register and log in](https://edge.titannet.info/signup?inviteCode=NP2QK3EA)
 
-![注册登录](https://github.com/user-attachments/assets/82c06dec-7820-42b5-ad61-8e30f2b4db7f)
+![注册登录](https://github.com/user-attachments/assets/a4a409d6-3a3b-47b4-800e-d859131b5cf8)
 
 ## 赚取积分 / Earn Points
 ### 通过链接和关注赚取积分 / Earn Points Through Links and Follows
