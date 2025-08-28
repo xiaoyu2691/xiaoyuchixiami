@@ -1,16 +1,16 @@
 # Depin Chromium Browser 操作指南 / Depin Chromium Browser Guide
 
-## 如何安装 TITAN 插件 / How to Install the TITAN Extension
-进入到这个页面，点击[这里下载 Titan Browser Extension](https://chromewebstore.google.com/detail/titan-browser-extension/flemjfpeajijmofcpgfgckfbmomdflck?utm_source=ext_app_menu)
-Go to this page and click [here to download the Titan Browser Extension](https://chromewebstore.google.com/detail/titan-browser-extension/flemjfpeajijmofcpgfgckfbmomdflck?utm_source=ext_app_menu)
-
-![Titan Browser Extension](https://github.com/user-attachments/assets/adc0a7a8-8e46-40b9-80e2-f243e6222359)
-
 ## 注册登录 / Register and Login
 也可以点击[这里进行注册登录](https://edge.titannet.info/signup?inviteCode=YYJSEG35)
 You can also click [here to register and log in](https://edge.titannet.info/signup?inviteCode=YYJSEG35)
 
 ![注册登录](https://github.com/user-attachments/assets/7276f29e-f51d-47f7-98a0-6711da126bed)
+
+## 如何安装 TITAN 插件 / How to Install the TITAN Extension
+进入到这个页面，点击[这里下载 Titan Browser Extension](https://chromewebstore.google.com/detail/titan-browser-extension/flemjfpeajijmofcpgfgckfbmomdflck?utm_source=ext_app_menu)
+Go to this page and click [here to download the Titan Browser Extension](https://chromewebstore.google.com/detail/titan-browser-extension/flemjfpeajijmofcpgfgckfbmomdflck?utm_source=ext_app_menu)
+
+![Titan Browser Extension](https://github.com/user-attachments/assets/adc0a7a8-8e46-40b9-80e2-f243e6222359)
 
 ## 赚取积分 / Earn Points
 ### 通过链接和关注赚取积分 / Earn Points Through Links and Follows
